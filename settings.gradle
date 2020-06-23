@@ -1,0 +1,3 @@
+include ':supertv'
+include ':app'
+rootProject.name = "View Parameters"
